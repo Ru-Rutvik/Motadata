@@ -7,7 +7,10 @@ The application should implement CRUD operations (Create, Read, Update, Delete) 
 Design entities with a relational structure, leveraging Hibernate's inheritance strategies and joins for optimal data modelling.
 Write Unit test cases to test both failure and successful scenarios.
 
-Test cases create : 5
-Test cases failed : 1 ( ID not found exception )
+Main Code is here : Assessment/demo/src/main/java/com/example/demo
+Main Test code is here : Assessment/demo/src/test/java/com/example/demo
+ 
+Total Test cases  : 5
+Test Cases Failed : 1 ( ID not found exception )
 
 
